@@ -1,0 +1,25 @@
+{
+  "name": "starter-kit",
+  "version": "0.0.1",
+  "authors": [
+    "Vincent Bonmalais <vb.kouno@gmail.com>"
+  ],
+  "description": "JS and CSS libs I usually use on a project",
+  "main": "index.html",
+  "keywords": [
+    "starter-kit"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.0",
+    "coffee-script": "~1.6.3"
+  }
+}
